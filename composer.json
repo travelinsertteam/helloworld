@@ -1,0 +1,12 @@
+{
+    "name": "praveen/helloworld",
+    "description": "test",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld\\": "src/"
+        }
+    }
+}
